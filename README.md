@@ -14,6 +14,29 @@ I'm a full-stack developer comfortable across the frontend, backend, and infrast
 
 ---
 
+### 🎮 Featured Projects
+
+#### 🃏 Bluff Arena — Real-Time Multiplayer Card Game
+A cross-platform card game built in React Native where players create a room and share the room number for friends to join — supporting up to **6 players per session**.
+- Real-time gameplay powered by **WebSocket** for live data sync and synchronized state/animations
+- **WebRTC** voice communication so players can talk while they play
+- Persistent user data and game state stored in **MongoDB**, with **Redis** used for fast, low-latency state retrieval
+- Self-hosted on my home server, with an early release on the Play Store, currently starting to catch on
+
+🔗 [Available on Play Store](https://play.google.com/store/apps/details?id=com.msuf123.bluffarena&pcampaignid=web_share)
+**Tools used:** React Native, Express, MongoDB, Redis, WebSocket, WebRTC
+
+#### 🍳 Recipe Book — Social Recipe Sharing App
+A blog-style platform built for recipes, where users can write, read, share, and engage with recipe content.
+- Write and publish full recipes, with support for **saving recipes as drafts** before publishing
+- Like/dislike and **comment** on recipes
+- Save and bookmark recipes, with a personal **history** of liked and saved recipes
+- Built with **Angular** on the frontend and **Express + SQL** on the backend
+
+**Tools used:** Angular, Express, SQL
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages**
@@ -29,30 +52,7 @@ I'm a full-stack developer comfortable across the frontend, backend, and infrast
 `MongoDB` `MariaDB / SQL` `Redis` `Firestore`
 
 **DevOps / Tools**
-`Docker` `Linux` `Self-Hosted Infrastructure` `WebSocket` `WebRTC`
-
----
-
-### 🎮 Featured Projects
-
-#### 🃏 Bluff Arena — Real-Time Multiplayer Card Game
-A cross-platform card game built in React Native where players create a room and share the room number for friends to join — supporting up to **6 players per session**.
-- Real-time gameplay powered by **WebSocket** for live data sync and synchronized state/animations
-- **WebRTC** voice communication so players can talk while they play
-- Persistent user data and game state stored in **MongoDB**, with **Redis** used for fast, low-latency state retrieval
-- Self-hosted on my home server, with a public release on the Play Store
-
-🔗 [Live on Play Store](https://play.google.com/store/apps/details?id=com.msuf123.bluffarena&pcampaignid=web_share)
-**Tools used:** React Native, Express, MongoDB, Redis, WebSocket, WebRTC
-
-#### 🍳 Recipe Book — Social Recipe Sharing App
-A YouTube/blog-style platform built for recipes, where users can write, read, share, and engage with recipe content.
-- Write and publish full recipes, with support for **saving recipes as drafts** before publishing
-- Like/dislike and **comment** on recipes
-- Save and bookmark recipes, with a personal **history** of liked and saved recipes
-- Built with **Angular** on the frontend and **Express + SQL** on the backend
-
-**Tools used:** Angular, Express, SQL
+`Docker` `Linux` `WebSocket` `WebRTC`
 
 ---
 
@@ -82,7 +82,6 @@ BE in Computer Science | Aug 2021 – May 2025 | GPA: 6.9/10
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/akshat-malik-258805235/)
-- [Self-Hosted Git Server](https://git.indurio.org/)
 
 ---
 
